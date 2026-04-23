@@ -323,6 +323,20 @@ hermes model  # (Interactive, requires TTY)
 | 2026-04-23 17:15 | Attempted Groq provider setup | ❌ |
 | 2026-04-23 17:18 | Fallback to OpenRouter with 70B model | ✅ |
 | 2026-04-23 17:24 | Gateway fully operational | ✅ |
+| 2026-04-23 17:27 | Created GitHub repository with documentation | ✅ |
+
+---
+
+## GitHub Repository
+
+This documentation has been published to GitHub for easy reference and collaboration.
+
+**Repository:** https://github.com/panditvirchandra77-lgtm/hermes-key-setup-troubleshooting
+
+**Purpose:**
+- Live documentation of Hermes Agent setup issues
+- Reference for future troubleshooting
+- Community contribution welcome
 
 ---
 
